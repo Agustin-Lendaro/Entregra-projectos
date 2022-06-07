@@ -68,11 +68,21 @@ body{
 }
 
 .boton:hover{
-    transform: scale(1.5);
+    transform: scale(1.3);
+    text-decoration: underline;
+    text-decoration-thickness: 10%;
 }
 
+/*contacto*/
+.imagenContacto{
+    max-width: 30px;
+    max-height: 30px;
+}
 
-
+.contacto{
+    font-size: 20px;
+}
+/*fin contacto*/
 
 .footer{
     display: flex;
@@ -87,8 +97,12 @@ body{
 }
 
 .imagenRedSocial{
+    max-width: 100px;
+    min-width: 75px;
     max-height: 100px;
-    padding: 1em;    
+    min-height: 100px;
+    padding: 1em;
+      
 }
 footer div a {
     text-decoration: none;
