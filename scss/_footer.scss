@@ -1,0 +1,22 @@
+footer{
+    display: flex;
+    justify-content: flex-end;
+    border-top: 5px solid black;
+    margin-top: auto;
+    margin-bottom: none;
+    width: 100%;
+    background-color: $Footer;
+    align-self: flex-end; 
+    div{
+        a{
+            text-decoration: none;
+            img{
+                max-width: 100px;
+                min-width: 75px;
+                max-height: 100px;
+                min-height: 100px;
+                padding: 1em;
+            }
+        }
+    }
+}

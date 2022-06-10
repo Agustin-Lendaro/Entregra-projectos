@@ -1,0 +1,20 @@
+$Body: #E8F9FD;
+$NavBar: #79DAE8;
+$Footer: #0AA1DD;
+
+*{
+    margin:0;
+    padding:0%;
+    box-sizing:border-box;
+}
+
+body{
+    background-color: $Body;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+@import "header";
+@import "footer";
+@import "index";
