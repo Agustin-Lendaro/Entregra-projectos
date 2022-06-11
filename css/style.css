@@ -78,3 +78,19 @@ footer {
   font-size: 24px;
   max-width: 90vw;
   margin: auto; }
+
+#contacto div {
+  align-items: center; }
+  #contacto div .imagenContacto {
+    max-height: 60px;
+    max-width: 60px; }
+  #contacto div a {
+    text-decoration: none; }
+  #contacto div .contacto {
+    color: black; }
+
+#galeria {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  flex-direction: row; }

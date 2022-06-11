@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Agustin-Lendaro/Entregra-projectos.git"
+    "url": "https://github.com/Agustin-Lendaro/Proyecto-HTML-CSS"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Agustin-Lendaro/Entregra-projectos/issues"
+    "url": "https://github.com/Agustin-Lendaro/Proyecto-HTML-CSS"
   },
-  "homepage": "https://github.com/Agustin-Lendaro/Entregra-projectos#readme",
+  "homepage": "https://github.com/Agustin-Lendaro/Proyecto-HTML-CSS",
   "dependencies": {
     "node-sass": "^7.0.1",
     "nodemon": "^2.0.16"
